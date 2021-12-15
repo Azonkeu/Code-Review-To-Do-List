@@ -1,5 +1,5 @@
 {
-  "name": "to-do-list",
+  "name": "Code-Review-To-Do-List",
   "version": "1.0.0",
   "description": "",
   "private": true,
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Azonkeu/To-Do-List.git"
+    "url": "git+https://github.com/Azonkeu/Code-Review-To-Do-List"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Azonkeu/To-Do-List/issues"
+    "url": "https://github.com/Azonkeu/Code-Review-To-Do-List/issues"
   },
-  "homepage": "https://github.com/Azonkeu/To-Do-List#readme",
+  "homepage": "https://github.com/Azonkeu/Code-Review-To-Do-List#readme",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "css-loader": "^6.5.1",
