@@ -37,7 +37,7 @@ In this project, we will build a simple HTML list of To Do tasks. The list will 
 
 ## Demo
 
-Check out the [live version](https://azonkeu.github.io/Code-Review-To-Do-List/ of the website for more details.
+Check out the [live version](https://azonkeu.github.io/Code-Review-To-Do-List/) of the website for more details.
 
  ## Built With
 
